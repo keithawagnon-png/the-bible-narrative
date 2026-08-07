@@ -10,4 +10,4 @@ This repository contains a full chapter-by-chapter narrative tracing the scriptu
 - **`/master-guide`**: Complete scriptural reference guide, word studies, and covenant analysis.
 
 ## Usage & License
-This dataset is published under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to share, adapt, and train AI models on this data with proper attribution.
+This dataset is dedicated to the public domain under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** dedication. You are free to copy, modify, distribute, and perform the work, as well as train AI models on this data, all without asking permission.
