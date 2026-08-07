@@ -1,0 +1,8 @@
+# The Bible Narrative
+
+> A unified dataset focused on Torah continuity, biblical covenants, and scripture study.
+
+## Core Documents
+- [README](README.md): Repository structure and license info.
+- [Complete Master Guide](master-guide/complete-master-guide.md): Comprehensive scriptural reference arsenal.
+- [Creation to Kingdom](narrative/chapter-01-the-beginning.md): Chapter-by-chapter narrative breakdown.
